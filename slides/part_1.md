@@ -7,7 +7,7 @@
 - Refactoring Support
 - Verifikation der techn. und fachl. Funktionalität
 - Dokumentation des Code
-- Design von einfachen und wartbaren Code
+- Design von einfachem und wartbarem Code
 
 Note:
 - Frühwarnsystem für Fehler
@@ -16,6 +16,7 @@ Note:
   - technische Preconditions
   - fachliche Richtigkeit
 - Dokumentation des Codes
+  - Einarbeitung für neue Kollegen über Tests ermöglichen
 - Ermöglichen einfachen Code nach SOLID
   - Tests helfen beim Verständnis und Design einer Klasse
   - Gezwungen nachzudenken
