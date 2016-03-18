@@ -7,7 +7,7 @@
 - Refactoring Support
 - Verifikation der techn. und fachl. Funktionalität
 - Dokumentation des Code
-- Design von einfachen und wartbaren Code
+- Design von einfachem und wartbarem Code
 
 Note:
 - Frühwarnsystem für Fehler
